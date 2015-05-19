@@ -1,6 +1,2 @@
 # Toekang
-<<<<<<< HEAD
-Task Ninja Course for AngularJs and RoR
-=======
-Task Ninja Course for AngularJs
->>>>>>> bec539cbd1f3ff0e33c53efd6dbdcc139e5cfd63
+/* 1- Stop on Task2 Create Authentication. Register form didn't work. Can not to submit a new register */
